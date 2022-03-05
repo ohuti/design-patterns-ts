@@ -1,0 +1,12 @@
+{
+  "name": "design-patterns-ts",
+  "version": "1.0.0",
+  "description": "Esse repositório servirá para estudo e posteriormente para consulta da implementação de design patterns em typescript",
+  "main": "index.js",
+  "author": "André Ohuti",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
