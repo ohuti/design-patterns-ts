@@ -1,12 +1,20 @@
 {
-  "name": "design-patterns-ts",
-  "version": "1.0.0",
-  "description": "Esse repositório servirá para estudo e posteriormente para consulta da implementação de design patterns em typescript",
-  "main": "index.js",
-  "author": "André Ohuti",
-  "license": "MIT",
-  "private": true,
-  "devDependencies": {
-    "typescript": "^4.6.2"
-  }
+    "name": "design-patterns-ts",
+    "version": "1.0.0",
+    "description": "Esse repositório servirá para estudo e posteriormente para consulta da implementação de design patterns em typescript",
+    "main": "index.js",
+    "author": "André Ohuti",
+    "license": "MIT",
+    "private": true,
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "@swc/core": "^1.2.151",
+        "@swc/jest": "^0.2.20",
+        "@types/jest": "^27.4.1",
+        "jest": "^27.5.1",
+        "ts-node": "^10.7.0",
+        "typescript": "^4.6.2"
+    }
 }
